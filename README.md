@@ -1,3 +1,3 @@
 # results
 
-This repository contains the results of [Tran Thu Le](https://tranthule.blogspot.com/p/about-me.html).
+This repository contains the results shared by me.
